@@ -1,5 +1,11 @@
 # slim3
 
+This is simple migrations & API using slim framework v.3 and phinx.
+
+First time install package
+
+    composer install
+
 **create migration file**
 
     vendor/bin/phinx create CreateUsersTable -c phinx.php
